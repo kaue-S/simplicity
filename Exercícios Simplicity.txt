@@ -1,0 +1,11 @@
+1) Crie um arquivo chamado "estilos.css" em uma pasta chamada "css".
+
+2) Conecte este arquivo de estilos ao documento HTML.
+
+3) Crie no arquivo CSS as seguintes regras:
+
+- Alteração do Box Model CSS
+- Tamanho de fonte padrão: 14px
+- Regra de reset para: titulos, textos, figures, 
+e lista do menu (classe menu)
+- Torne as imagens flexíveis
